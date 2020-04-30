@@ -1,6 +1,6 @@
 <div class="embed-container">
   <iframe
-      src="https://www.youtube.com/embed/{{dQw4w9WgXcQ}}"
+      src="https://www.youtube.com/embed/dQw4w9WgXcQ"
       width="700"
       height="480"
       frameborder="0"
@@ -9,7 +9,7 @@
 </div>
 
 
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages 1
 
 You can use the [editor on GitHub](https://github.com/Deerop/Deerop.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
