@@ -1,7 +1,7 @@
 <div class="embed-container">
   <iframe
       src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1"
-      width="1400"
+      width="1100"
       height="960"
       frameborder="0"
       allowfullscreen="">
@@ -9,6 +9,6 @@
 </div>
 
 
-## Welcome to GitHub Pages 2
+## Congrats! You've been rickrolled!
 
-[editor on GitHub](https://github.com/Deerop/Deerop.github.io/edit/master/index.md)
+Be sharper with the links you click on next time
